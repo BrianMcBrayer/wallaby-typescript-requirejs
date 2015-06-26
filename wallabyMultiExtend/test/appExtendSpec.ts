@@ -1,5 +1,7 @@
-import AppEx = require('appExtend');
-import $ = require('jquery');
+/// <reference path="../Scripts/typings/jasmine/jasmine.d.ts"/>
+
+import AppEx = require("appExtend");
+import $ = require("jquery");
 import _ = require('underscore');
 
 describe('just checking', function () {
